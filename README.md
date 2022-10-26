@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div hrf = "https://ijse.lk/?email=">
-<p>click <p/>
-<div/>
+<a href="https://ijse.lk/?email=">click<a/>
