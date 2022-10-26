@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=my+name+is+tharuka" alt="Typing SVG" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharukanadu&label=Profile%20views&color=0e75b6&style=flat" alt="tharuka" /> </p>
 
 **tharukanadu/tharukanadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
