@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://ijse.lk/?email=">click<a/>
+<a href="https://github.com/tharukanadu/My-Profile">click<a/>
