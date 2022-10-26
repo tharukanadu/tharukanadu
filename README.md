@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center">
+<img height="180px" alt="tharukanadu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharukanadu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
+<img height="180px" title="streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=tharukanadu&theme=monokai-metallian&hide_border=true"/>
+</p>
+
 
 <a href="https://tharukanadu.github.io/My-Profile/">click<a/>
